@@ -1,3 +1,5 @@
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/intgbles/openscad-with-libraries?style=for-the-badge)
+
 # Openscad with libraries for CI
   
 
